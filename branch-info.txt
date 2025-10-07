@@ -16,11 +16,11 @@ Branches in this repo (with details):
     13585b3 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:18:19Z | Auto-update branch-info.txt
     3e200e0 | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T13:18:08-04:00 | Initial commit
 - main
-  SHA: 13d2cce8264b52684de3efac222bc759c08b6330
-  Commits: 6
+  SHA: 4351ac26fdad542882ab0dffd69f6829753361c1
+  Commits: 9
   Recent commits:
+    4351ac2 | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-10-07T18:50:39Z | Merge branch 'lab7'
+    1df3663 | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-10-07T18:50:15Z | Fixing part 7
+    0827a8a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:55Z | Auto-update branch-info.txt
     13d2cce | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-10-07T18:32:21Z | Merge branch 'lab7'
     37044d5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:12Z | Auto-update branch-info.txt
-    55c281f | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-10-07T18:31:58Z | Completed lab7
-    47c3c68 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:18:55Z | Auto-update branch-info.txt
-    13585b3 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:18:19Z | Auto-update branch-info.txt
