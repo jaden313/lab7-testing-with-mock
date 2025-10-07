@@ -2,7 +2,6 @@ from typing import Dict, List
 
 import pytest
 import copy
-from unittest import mock
 
 from presidio_anonymizer import AnonymizerEngine
 from presidio_anonymizer.entities import (
@@ -290,7 +289,7 @@ def test_given_conflict_input_then_merged_correctly(mock_logger):
         original_analyzer_results
     )
     assert anonymizer_result.text == "I'm <LOCATION>."
-    mock_logger.debug.assert_called()
+    mock_logger.debug.assert_called_once()
 
 
 def _operate(
