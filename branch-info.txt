@@ -1,5 +1,14 @@
 Branches in this repo (with details):
 
+- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
+  SHA: deea25dd37e8101261404a82ed6377106a7490df
+  Commits: 11
+  Recent commits:
+    deea25d | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-01T17:20:21Z | Bump python in /presidio-anonymizer
+    258a20d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:51:08Z | Auto-update branch-info.txt
+    4351ac2 | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-10-07T18:50:39Z | Merge branch 'lab7'
+    1df3663 | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-10-07T18:50:15Z | Fixing part 7
+    0827a8a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:55Z | Auto-update branch-info.txt
 - dependabot/github_actions/actions/checkout-5
   SHA: 9b8fbf3f5a2d3a05e83898c5fbe0a1b033c7b987
   Commits: 3
@@ -16,11 +25,11 @@ Branches in this repo (with details):
     13585b3 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:18:19Z | Auto-update branch-info.txt
     3e200e0 | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T13:18:08-04:00 | Initial commit
 - main
-  SHA: 4351ac26fdad542882ab0dffd69f6829753361c1
-  Commits: 9
+  SHA: 258a20d3037a2a83d39ab2c13675bbfcdb1d8e6b
+  Commits: 10
   Recent commits:
+    258a20d | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:51:08Z | Auto-update branch-info.txt
     4351ac2 | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-10-07T18:50:39Z | Merge branch 'lab7'
     1df3663 | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-10-07T18:50:15Z | Fixing part 7
     0827a8a | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:55Z | Auto-update branch-info.txt
     13d2cce | Author: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Committer: Jaden Ziga <179839509+jaden313@users.noreply.github.com> | Date: 2025-10-07T18:32:21Z | Merge branch 'lab7'
-    37044d5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:32:12Z | Auto-update branch-info.txt
